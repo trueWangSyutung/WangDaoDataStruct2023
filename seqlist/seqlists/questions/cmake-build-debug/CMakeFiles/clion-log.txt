@@ -1,0 +1,4 @@
+/home/syutung/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/syutung/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja /home/syutung/文档/WangDaoDataStruct/seqlist/seqlists/questions
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/syutung/文档/WangDaoDataStruct/seqlist/seqlists/questions/cmake-build-debug

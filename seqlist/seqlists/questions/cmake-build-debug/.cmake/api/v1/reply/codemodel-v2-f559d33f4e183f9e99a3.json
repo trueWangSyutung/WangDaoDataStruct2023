@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-01-Debug-18826012769f1ba24f95.json",
+					"name" : "2-01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-02-Debug-eebef967b5b6da8e2031.json",
+					"name" : "2-02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-03-Debug-4600ad8d17f3bccd441b.json",
+					"name" : "2-03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-04-Debug-17c02f2097ce580d78d5.json",
+					"name" : "2-04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-05-Debug-1741dad5b41f42586609.json",
+					"name" : "2-05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-06-Debug-12a3d4444a44d5b066e6.json",
+					"name" : "2-06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-07-Debug-d1e51242c6da6fa718a2.json",
+					"name" : "2-07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo-Debug-1d9a76bcccabe2828936.json",
+					"name" : "demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/syutung/文档/WangDaoDataStruct/seqlist/seqlists/questions/cmake-build-debug",
+		"source" : "/home/syutung/文档/WangDaoDataStruct/seqlist/seqlists/questions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
